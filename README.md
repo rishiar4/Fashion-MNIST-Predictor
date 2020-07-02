@@ -39,9 +39,21 @@ Explanation:
    7. Using Plotly library to Evaluate the Prediction.
      ![fff](https://user-images.githubusercontent.com/48138906/86393609-f0e99400-bcba-11ea-88eb-f89da0b91d7b.png)
    8. The accuracy score of the model is 85%.
+   
+   
      ![score](https://user-images.githubusercontent.com/48138906/86393692-08288180-bcbb-11ea-8586-0247fda6a3fe.png)
 
    9. The Neural Network with the layers looks like: 
+   
+   
       ![pppp](https://user-images.githubusercontent.com/48138906/86393563-e0391e00-bcba-11ea-83bd-c1b6332c4469.png)
+      
+      
+   Activation Function
+ I have used SoftMax activation function in the last layer, this activation function will give the probablity of the prediction, the label which gives the maximum probability is selected as the prediction of the row.
+
+ In order to get better accuracy you can tweak the neural network and accordingly change the layers. The epochs ie a measure of the number of times all of the training vectors are used once to update the weights can also be increased or decreased.
+
+A similar network can be used to update the use with more images.
 
    
