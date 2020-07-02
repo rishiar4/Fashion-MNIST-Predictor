@@ -39,9 +39,8 @@ Explanation:
    7. Using Plotly library to Evaluate the Prediction.
      ![fff](https://user-images.githubusercontent.com/48138906/86393609-f0e99400-bcba-11ea-88eb-f89da0b91d7b.png)
    8. The accuracy score of the model is 85%.
-   
-   
-     ![score](https://user-images.githubusercontent.com/48138906/86393692-08288180-bcbb-11ea-8586-0247fda6a3fe.png)
+     ![score](https://user-images.githubusercontent.com/48138906/86395275-9e5da700-bcbd-11ea-9ddd-56eca36d7386.png)
+
 
    9. The Neural Network with the layers looks like: 
    
