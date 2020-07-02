@@ -22,6 +22,7 @@ The data has been taken from Keras MNIST dataset.
 Explanation:
    1. Loading the Libraries.
    2. Loading the data and spliting it into Train and Test Data.
+   
       ![file1](https://user-images.githubusercontent.com/48138906/86389151-85e88f00-bcb3-11ea-914a-35dadf7062cc.png)
    3. Analysing the data.
       ![file2](https://user-images.githubusercontent.com/48138906/86389318-c21bef80-bcb3-11ea-9cba-7e73944467fc.png)
